@@ -1,6 +1,3 @@
-## 🗂️ **Day 3 — `README_day3.md`**
-
-```markdown
 # Day 3 – VLAN, EtherChannel, and OSPF Configuration
 
 ## Overview
@@ -52,5 +49,3 @@ VLANs successfully isolated traffic, EtherChannel increased bandwidth and redund
 * Always match EtherChannel mode on both ends.
 * Use unique router IDs for OSPF neighbors.
 * Save configuration after verifying functionality.
-
-```
