@@ -1,6 +1,3 @@
-## 🗂️ **Day 1 — `README_day1.md`**
-
-````markdown
 # Day 1 – Configuring a Cisco Network Switch using PuTTY
 
 ## Overview
@@ -48,5 +45,3 @@ Switch successfully configured with secure access, hostname, and login banner. L
 
 * Always secure privileged EXEC mode with an encrypted password.
 * Save frequently to avoid losing configuration after reload.
-
-````
