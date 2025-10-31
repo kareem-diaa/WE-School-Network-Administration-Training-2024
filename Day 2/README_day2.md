@@ -1,6 +1,3 @@
-## 🗂️ **Day 2 — `README_day2.md`**
-
-```markdown
 # Day 2 – Setting Up the Network Topology
 
 ## Overview
@@ -46,5 +43,3 @@ A fully operational local network with successful device interconnectivity. Lear
 
 * Ensure cables are properly connected and interfaces are not administratively down.
 * Document all IP addressing schemes for troubleshooting.
-
-````
